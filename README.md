@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# Wave Portal
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic Hardhat use case. I went forth and created a sample project, then deleted default contract, test and scripts. Then I build a new contract for the portal, created the run.js and scripts.js file. Then deployed on a node within hardhat. 
 
 Try running some of the following tasks:
 
